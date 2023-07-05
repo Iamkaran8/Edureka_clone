@@ -43,7 +43,7 @@ header{
 }
 .course_div img{
     height:100px;
-    width: 190px;
+    width: auto;
     padding: 3px;
     border: 2px solid black;
 }
