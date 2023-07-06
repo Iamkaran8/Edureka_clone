@@ -4,11 +4,9 @@
 
 
 }
-
 #Navbar a{
     padding: 10px;
 }
-
 img{
     height: 700px;
     width: 100%;
@@ -23,7 +21,6 @@ header{
     padding-top: 78px;
     
 }
-
 .img{
     height: 180px;
     width: auto;
@@ -43,7 +40,7 @@ header{
 }
 .course_div img{
     height:100px;
-    width: 190px;
+    width: 170px;
     padding: 3px;
     border: 2px solid black;
 }
